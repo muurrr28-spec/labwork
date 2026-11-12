@@ -1,4 +1,4 @@
-# Первоначальный (дефектный) вариант
+# This is an improved version
 def check_array(arr):
     res = []
     for i in arr:
